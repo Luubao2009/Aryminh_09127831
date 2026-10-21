@@ -19,7 +19,7 @@ loginForm.addEventListener("submit", (event) => {
     return;
   }
 
-  welcomeMessage.textContent = "HAHA cái thằng đã gay còn ham tiền";
+  welcomeMessage.textContent = "Hãy Trả Lời Đúng";
   loginCard.hidden = true;
   homeScreen.hidden = false;
 });
